@@ -1,17 +1,14 @@
 [project]
-name = "teamgun"
-version = "0.1.0"
-description = "team project"
+name = ""
+version = ""
+description = ""
 authors = [
     {name = "baamboo", email = "beom5236@gmail.com"},
     {name = "LEESUNG02", email = "leesung02@naver.com"},
     {name = "Chong5084", email = "dmschd9647@gmail.com"},
 ]
 dependencies = []
-requires-python = ">=3.8"
+requires-python = ">=3.12"
 readme = "README.md"
 license = {text = "MIT"}
 
-[build-system]
-requires = ["pdm-backend"]
-build-backend = "pdm.backend"
