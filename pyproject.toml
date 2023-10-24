@@ -1,6 +1,6 @@
 [project]
 name = "teamgun1"
-version = "0.1.0"
+version = "0.1.1"
 description = "team project"
 authors = [
     {name = "baamboo", email = "beom5236@gmail.com"},
@@ -14,6 +14,9 @@ dependencies = [
 requires-python = ">=3.8"
 readme = "README.md"
 license = {text = "MIT"}
+
+[project.scripts]
+ha-weather = 'teamgun1.weather_show:weather_show'
 
 [build-system]
 requires = ["pdm-backend"]
