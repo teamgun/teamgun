@@ -8,8 +8,8 @@ authors = [
     {name = "Chong5084", email = "dmschd9647@gmail.com"},
 ]
 dependencies = [
-    "requests>=2.31.0",
     "bs4>=0.0.1",
+    "requests>=2.31.0",
 ]
 requires-python = ">=3.8"
 readme = "README.md"
