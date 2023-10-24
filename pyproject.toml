@@ -15,6 +15,9 @@ requires-python = ">=3.8"
 readme = "README.md"
 license = {text = "MIT"}
 
+[project.scripts]
+ha-weather = 'teamgun1.weather_show:weather_show'
+
 [build-system]
 requires = ["pdm-backend"]
 build-backend = "pdm.backend"
