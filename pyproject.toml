@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "team project"
 authors = [
     {name = "baamboo", email = "beom5236@gmail.com"},
-    {name = "LEESUNG02", email = "leesung02@naver.com"},
+    {name = "leesung02", email = "leesung02@naver.com"},
     {name = "Chong5084", email = "dmschd9647@gmail.com"},
 ]
 dependencies = []
