@@ -1,7 +1,7 @@
 [project]
-name = ""
-version = ""
-description = ""
+name = "teamgun"
+version = "0.1.0"
+description = "team project"
 authors = [
     {name = "baamboo", email = "beom5236@gmail.com"},
 ]
@@ -10,3 +10,6 @@ requires-python = ">=3.8"
 readme = "README.md"
 license = {text = "MIT"}
 
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
