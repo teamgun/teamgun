@@ -1,4 +1,4 @@
 # example-package
 
 def my_name():
-  print(my_name is sung")
+  print(my_name is sung!")
